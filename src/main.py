@@ -19,7 +19,4 @@ f2.atualiza_fila()
 print(f2.chama_cliente(2))
 print(f2.chama_cliente(10))
 print(f2.estatistica("28", 1007, ""))
-print(f2.estatistica("28", 1007, "detail"))
-
-
-
+print(f2.estatistica("28", "abc", "detail"))
